@@ -1,4 +1,3 @@
-# Sample Test passing with nose and pytest
 from torchvision.datasets import VOCDetection
 import yaml
 
