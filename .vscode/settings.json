@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "C:\\Users\\sam\\miniconda3\\envs\\lightning\\python.exe",
+    "python.formatting.provider": "black"
+}

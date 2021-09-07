@@ -1,0 +1,21 @@
+name: object_detector
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.6
+  - numpy
+  - scipy
+  - matplotlib
+  - pandas
+  - pytest
+  - flake8
+  - rope
+  - click
+  - jupyter
+  - pyyaml
+  - pip
+  - pip:
+    - tqdm
+    - -e .

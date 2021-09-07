@@ -1,0 +1,4 @@
+locations:
+  data: "data"
+classes: ["aeroplane", "bicycle", "bird", "boat", "bottle", "bus", "car", "cat", "chair", "cow", "diningtable", "dog", "horse", "motorbike", "person", "pottedplant", "sheep", "sofa", "train", "tvmonitor"]
+colours: ["#c0c0c0","#808080","#800000","#808000","#00FF00","#00FFFF","#008080","#000080","#FF00FF","#800080","#CD5C5C","#F08080","#FA8072","#E9967A","#FFA07A"]
