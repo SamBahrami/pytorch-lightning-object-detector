@@ -1,4 +1,4 @@
-from torchvision.datasets import VOCDetection, voc
+from torchvision.datasets import VOCDetection
 import yaml
 import PIL
 from PIL import Image, ImageDraw
